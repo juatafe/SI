@@ -7,7 +7,7 @@ Módulo de Sistemas Informáticos CFGS 5h+3h Inglés (ejem...spanglish)
 # Moodle
 ![image](https://user-images.githubusercontent.com/43112835/169300304-eb280127-3b3c-4789-b3b4-e20a0383e8d4.png)
 
-[Bacup del curso en plataforma](https://github.com/juatafe/SI/blob/main/backup-moodle2-course-56765-1cfsd_sistemes_inform%C3%A0tics_2122___1631173533-20220519-1449-nu.imscc)
+[Backup del curso en plataforma](https://github.com/juatafe/SI/blob/main/backup-moodle2-course-56765-1cfsd_sistemes_inform%C3%A0tics_2122___1631173533-20220519-1449-nu.imscc)
 # Temas explicados con ejercicios 
 ---
 
