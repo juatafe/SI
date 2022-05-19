@@ -1,6 +1,7 @@
 # SI
 Módulo de Sistemas Informáticos CFGS 5h+3h Inglés (ejem...spanglish)
 ![image](https://user-images.githubusercontent.com/43112835/169299755-7e9961e2-1659-46c3-bb00-824b8406ee00.png)
+[Descarga Programación didáctica CV](https://github.com/juatafe/SI/blob/main/SI-ANG-1rDAM-presencial%20(1).pdf)
 
 
 # Moodle
